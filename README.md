@@ -8,17 +8,17 @@ java exgample programming
 - Outer.java
 - Test.java
 - overloading.java
-- 
+
 #상속 Inheritance
 - OverRiding.java
 - transform.java
-- 
+
 #다형성 PoymorPhism
 - HiMart.java
-- 
+
 #인터페이스 Interface
--Inter.java
--InterFace.java
+- Inter.java
+- InterFace.java
 
 #추상화 Abstract
 - ABS.java
