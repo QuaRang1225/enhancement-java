@@ -1,7 +1,7 @@
 # JavaProject
 java exgample programming
 
-#자바프로그래밍 예제를 단원별로 정리한 repo
+#자바프로그래밍 예제를 단원별로 정리한 repository
 
 #클래스 Class
 #상속 Inheritance
