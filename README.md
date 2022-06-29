@@ -1,4 +1,4 @@
-# JavaProject
+# Java_Ex
 java exgample programming
 
 #자바프로그래밍 예제를 단원별로 정리한 repository
